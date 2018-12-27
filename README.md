@@ -2,10 +2,10 @@
 
 ## Lights
 
-This is a program that uses Lambartian shading and Bling-Phong shading practices.  It uses two different lights, one that rotates around the bunny and one that is controlled by the mouse.  The program allows you rotate and scale the bunny and control the z-axis of the lights.
+This is a program that uses Lambertian shading and Blinn-Phong shading practices.  It uses two different lights, one that rotates around the bunny and one that is controlled by the mouse.  The program allows you rotate and scale the bunny and control the z-axis of the lights.
 
 ## Shapes
-This program allows the user to choice from 4 different shapes with buttons on the bottom. You can rotate and scale on the current shape, and once the next object is selected the previous objects cannot be moved.
+This program allows the user to choose from 4 different shapes with buttons on the bottom. You can rotate and scale on the current shape, and once the next object is selected the previous objects cannot be moved.
 
 
 ### Getting necessary files
