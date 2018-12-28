@@ -12,7 +12,3 @@ Download all the files which correspond to the project. If you are on Mac, you w
 
 ### Using it
 In the selected folder, double-click on the HTML file and it will load into browser.
-
-
-
-```
